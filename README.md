@@ -1,4 +1,7 @@
 # Greatest permutation of given numbers
+09/2023
+
+___Done in C++___
 
 ## Recursion
 
@@ -11,7 +14,7 @@ Input files
 
 ● This file cannot be empty.
 
-● The numbers are separated with an “ ” (space), the
+● The numbers are separated with an “ ” (space)
 
 
 Example of a valid input: 9 8 7 6
